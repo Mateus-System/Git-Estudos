@@ -4,6 +4,10 @@ Fazendo alteracoes no Acesso push pull
 Focando em Estudar as feramentas de TI que estao em Alta
 
 
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
+
 
 
 
